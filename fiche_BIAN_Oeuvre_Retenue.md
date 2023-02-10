@@ -14,7 +14,7 @@ Année de réalisation:	2021
 
 Description de l'oeuvre:	Cartel + diverses vues	À composer ou reprendre la descritpion offerte sur le site de l'artiste ou sur le cartel en indiquant bien sa source
 
-Type d'installation: interactive:               (https://user-images.githubusercontent.com/112128387/218104370-61b6964a-bec8-43f3-8747-2e31cd9b70e1.mp4
+Type d'installation: interactive:               https://user-images.githubusercontent.com/112128387/218104370-61b6964a-bec8-43f3-8747-2e31cd9b70e1.mp4
 
 Mise en espace:	Vue d'ensemble de la pièce + croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension, avec dimensions)	:Texte qui permet de comprendre comment l'oeuvre est mise en espace : dans quelle pièce, sur quel mur, quel est l'espace occupé, comment est-elle disposée... ?
 
